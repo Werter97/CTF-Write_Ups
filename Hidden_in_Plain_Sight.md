@@ -1,8 +1,8 @@
 # Hidden in Plain Sight-25 (Misc)
 **Points:** 100
 **Category:** Misc
-## Description
-An encrypted message was hidden in plain sight in the web url.
+## Approach
+An encrypted message was hidden in plain sight in the web url(which i noticed by looking at all components on the screen).
 
 When i copied the url, i got the hidden text as:
 `#Hidden%20%F3%A0%81%B5%F3%A0%81%B4%F3%A0%81%A6%F3%A0%81%AC%F3%A0%81%A1%F3%A0%81%A7%F3%A0%81%BB%F3%A0%80%B1%F3%A0%81%AE%F3%A0%81%B6%F3%A0%80%B1%F3%A0%81%B3%F3%A0%80%B1%F3%A0%81%A2%F3%A0%81%AC%F3%A0%80%B3%F3%A0%81%9F%F3%A0%81%B5%F3%A0%81%AE%F3%A0%80%B1%F3%A0%81%A3%F3%A0%80%B0%F3%A0%81%A4%F3%A0%80%B3%F3%A0%81%BDin%20Plain%20Sight-25`
