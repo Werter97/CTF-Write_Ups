@@ -32,7 +32,7 @@ If we assume the intended word is `invisible`,
 * The `i`  was decoded as `r`.
 * The `e` was decoded as `t`.
 
-But `r-i`!=`t-i`,so I assumed instead of `i` let that be `1` as in many flags such things are formatted in such a way.
+But `r-i`!=`t-e`,so I assumed instead of `i` let that be `1` as in many flags such things are formatted in such a way.
 By subtracting `r`-`1`, i found the decoded characters to be`r` -> `1`, `t` -> `3`, `q` -> `0` 
 When i replaced them with their values in flag, i got the flag word to be:
 `1nv1s1bl3_un1c0d3`(This is meaningful (invisible unicode)).
