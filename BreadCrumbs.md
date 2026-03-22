@@ -7,7 +7,7 @@
 "Every trail has a beginning. This one starts here: `https://gist.github.com/garvk07/3f9c505068c011e0fd6abd9ddf56aecb`
 Follow the breadcrumbs. The flag is at the end."
 
-##Approach
+## Approach
 This challenge was a scavenger hunt requiring many decoding techniques. I followed the trail of Gist links.
 ### Breadcrumb 1: Base64
 Navigating to the initial Gist URL, I found the following string:
