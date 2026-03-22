@@ -40,7 +40,8 @@ We then find x_5 :
 
 x_5 is a key(4 byte repeating), we convert the int to hex and then bytes.
 We take xor of this 4 byte repeating key with the ciphered text to get flag.
-
+##Flag
+`utflag{pr3d1ct_th3_futur3_lcg}`
 ## Exploit
 ```python
 x_1=2681459949
